@@ -253,7 +253,7 @@ menu = [
     { name = "archive", url = "archive", trailing_slash = true },
     { name = "tags", url = "tags", trailing_slash = true },
 #   { name = "projects", url = "projects", trailing_slash = true },
-    { name = "digital garden", url = "https://blog.puffes.xyz", trailing_slash = true },
+    { name = "digital garden", url = "https://dg.puffes.xyz", trailing_slash = true },
     { name = "about", url = "about", trailing_slash = false },
 ]
 
