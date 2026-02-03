@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 main() {
-  ZOLA_VERSION=0.21.0
+  ZOLA_VERSION=0.22.1
 
   export TZ=Europe/Stockholm
 
