@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/_index.md",
+                "file": "about/about.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "about"
             }
           }
         ]
@@ -188,7 +188,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "4fec9c18b8b2f8fe",
+  "active": "514dc4bfbfcf14d7",
   "lastOpenFiles": [
     "_index.md",
     "blog/_index.md",

@@ -2,10 +2,6 @@
 title = "About Me"
 template = "info-page.html"
 path = "about"
-header = { title = "Welcome, I'm Kenny! 👋", img = "img/profile.png", img_alt = "I'm a ghost, oohh *spooky*" }
-
-[extra]
-
 +++
 
 Greetings!
