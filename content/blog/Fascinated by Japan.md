@@ -6,8 +6,10 @@ description = "Exploring Tokyo, Osaka and Kyoto"
 [taxonomies]
 tags = ["travel","Japan","Tokyo","Kyoto","Osaka","Hiroshima","Akihabara"]
 
-[extras]
+[extra]
 giscus = true
+  
+iine = true
 +++
 
 ## The Trip

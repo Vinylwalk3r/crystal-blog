@@ -6,8 +6,9 @@ description = "A look at Amsterdams Lights and Miniworld"
 [taxonomies]
 tags = ["travel","Netherlands","lights","Amsterdam","Rotterdam"]
 
-[extras]
+[extra]
 giscus = true
+iine = true
 +++
 
 ### Table of Content
