@@ -14,5 +14,4 @@ This blog here and my [digital garden](https://dg.puffes.xyz) are my little corn
 Enjoy your time in my little digital abode!
 
 PS. I recently found out about [Mabslands Censor Pandas](https://www.mabsland.com/Adoption.html) and immediately wanted to adopt one! Say *HI* to Gee, the unoffensive panda!
-[![](img/censorship-pandas/Censor_Gb.gif)](https://www.mabsland.com/Adoption.html)
-{{dimmable_image(src="img/censorship-pandas/Censor_Gb.gif", inline=true)}}
+[{{dimmable_image(src="img/censorship-pandas/Censor_Gb.gif", inline=true)}}](https://www.mabsland.com/Adoption.html)
