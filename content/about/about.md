@@ -6,7 +6,7 @@ path = "about"
 
 ## About me
 
-![image](/img/profile.png)
+![image](/img/profile.png|100)
 Greetings!
 So pleased to meet you. Names Kenny. I come from, and live in, the south of Sweden. 
 Loving to do many things, I like to try my hand at everything from tinkering with bikes to video editing and software deployment. Therefore I can post about a wide variety of subjects.

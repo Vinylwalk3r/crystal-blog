@@ -9,6 +9,7 @@ tags = ["travel","Netherlands","lights","Amsterdam","Rotterdam"]
 [extra]
 giscus = true
 iine = true
+local_image = "img/amsterdam-light-festival/amsterdam-night-1.JPG"
 +++
 
 ### Table of Content
