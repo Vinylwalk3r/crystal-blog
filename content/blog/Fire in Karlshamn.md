@@ -4,7 +4,7 @@ date = "2026-08-25"
 description = "Documenting a Fire in my Home Town"
 
 [taxonomies]
-tags = ["Karlshamn","Fire","Destruction","Police","Firefighters"]
+tags = ["Karlshamn","Fire","Local","News"]
 
 [extra]
 giscus = true

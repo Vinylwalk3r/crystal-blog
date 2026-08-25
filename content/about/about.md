@@ -2,6 +2,7 @@
 title = "About"
 template = "info-page.html"
 path = "about"
+header = {"img = "img/profile.png"}
 +++
 
 ## About me
