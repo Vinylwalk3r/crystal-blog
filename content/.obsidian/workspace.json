@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Fire in Karlshamn.md",
+                "file": "about/about.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Fire in Karlshamn"
+              "title": "about"
             }
           }
         ]
@@ -190,12 +190,18 @@
   },
   "active": "514dc4bfbfcf14d7",
   "lastOpenFiles": [
+    "blog/netherlands/Netherlands Lights and Miniatyres.md",
+    "blog/Fire in Karlshamn.md",
+    "blog/fire-in-karlshamn/Fire in Karlshamn.md",
+    "blog/netherlands",
+    "blog/New folder",
+    "blog/fire-in-karlshamn",
+    "blog/Fire in Karlshamn",
     "about/about.md",
     "_index.md",
     "blog/Netherlands Lights and Miniatyres.md",
     "drafts/Fascinated by Japan.md",
     "drafts",
-    "blog/Fire in Karlshamn.md",
     "blog/Fascinated by Japan.md",
     "projects/cool_project.md"
   ]
