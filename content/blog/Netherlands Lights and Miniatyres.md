@@ -9,7 +9,7 @@ tags = ["travel","Netherlands","lights","Amsterdam","Rotterdam"]
 [extra]
 giscus = true
 iine = true
-local_image = "img/img/amsterdam-light-festival/miniworld-3.JPG"
+local_image = "img/amsterdam-light-festival/miniworld-3.JPG"
 +++
 
 ### Table of Content
