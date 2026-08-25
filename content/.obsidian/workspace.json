@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "about/about.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "_index"
             }
           }
         ]
@@ -190,8 +190,8 @@
   },
   "active": "d3f8a5fc5d83acdf",
   "lastOpenFiles": [
-    "_index.md",
     "about/about.md",
+    "_index.md",
     "blog/Fire in Karlshamn.md",
     "blog/Netherlands Lights and Miniatyres.md",
     "about/_index.md",
