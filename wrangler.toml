@@ -1,7 +1,7 @@
 name = "zola-worker"
 compatibility_date = "2025-08-15"
 
-pages_build_output_dir = "./dist"
+pages_build_output_dir = "./public/"
 
 routes = [
   { pattern = "blog.puffes.xyz", custom_domain = true },
