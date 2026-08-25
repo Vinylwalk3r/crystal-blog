@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/netherlands/Netherlands Lights and Miniatyres.md",
+                "file": "blog/fire-in-karlshamn/Fire in Karlshamn.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Netherlands Lights and Miniatyres"
+              "title": "Fire in Karlshamn"
             }
           }
         ]
@@ -190,9 +190,9 @@
   },
   "active": "514dc4bfbfcf14d7",
   "lastOpenFiles": [
+    "blog/netherlands/Netherlands Lights and Miniatyres.md",
     "blog/fire-in-karlshamn/Fire in Karlshamn.md",
     "about/about.md",
-    "blog/netherlands/Netherlands Lights and Miniatyres.md",
     "blog/Fire in Karlshamn.md",
     "blog/netherlands",
     "blog/New folder",

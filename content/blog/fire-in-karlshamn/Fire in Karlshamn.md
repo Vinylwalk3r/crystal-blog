@@ -18,7 +18,7 @@ Something tragic happened earlier today. There was (and still is, at the time of
 
 image_hover(default_src="/img/karlshamn-fire/ronnebygatan-3-fire-2.jpg", hovered_src="/img/karlshamn-fire/ronnebygatan-3-fire-3.jpg", default_alt="Zoomed Out", hovered_alt="Zoomed In")
 
-![image](/img/karlshamn-fire/ronnebygatan-3-fire-2.jpg)
+![full_width_image](/img/karlshamn-fire/ronnebygatan-3-fire-2.jpg)
 ![image](/img/karlshamn-fire/ronnebygatan-3-fire-3.jpg)
 
 A mixed use building, a few blocks from town square, are on fire. Luckily, as of writing, the fire hasn't claimed any lives and no people are said to have gotten hurt.
