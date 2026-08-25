@@ -31,7 +31,7 @@ The roof and top floor of the building is largely destroyed, as can be seen in t
 ![image](/img/karlshamn-fire/ronnebygatan-3-fire-7.jpg)
 *The smoke spread over most of the town.*
 
-The firefighters has said to [BLT.SE](https://www.blt.se/karlshamn/larm-om-brand-i-centrala-karlshamn-luktar-rok/) that the fire started in the building and quickly took hold. [^1]: I have heard rumors that the fire started in a neighboring building and then spread through the courtyard and then onto the affected building. This is unconfirmed as of writing though.
+The firefighters has said to [BLT.SE](https://www.blt.se/karlshamn/larm-om-brand-i-centrala-karlshamn-luktar-rok/) that the fire started in the building and quickly took hold. [^1]:I have heard rumors that the fire started in a neighboring building and then spread through the courtyard and then onto the affected building. This is unconfirmed as of writing though.
 
 Personally, I knew a person who probably had her apartment tragically destroyed by the fire. I also know one of the hairdressers who work at hair salon (frisör Team1) on the ground floor. Beside the hair salon there was, until maybe half a year ago, a much loved bakery (Rockos). 
 
