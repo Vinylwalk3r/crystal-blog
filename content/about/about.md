@@ -4,8 +4,8 @@ template = "info-page.html"
 path = "about"
 
 [extra]
-{{dimmable_image(src="/img/profile.png", inline=true)}}
 +++
+{{dimmable_image(src="/img/profile.png", inline=true)}}
 
 Greetings!
 So pleased to meet you. Names Kenny. 
