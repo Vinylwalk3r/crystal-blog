@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "341cf880cb636bd7",
+        "id": "059532e409de01e0",
         "type": "tabs",
         "children": [
           {
-            "id": "514dc4bfbfcf14d7",
+            "id": "d3f8a5fc5d83acdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Netherlands Lights and Miniatyres.md",
+                "file": "drafts/Fire in Karlshamn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Netherlands Lights and Miniatyres"
+              "title": "Fire in Karlshamn"
             }
           }
         ]
@@ -188,9 +188,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "514dc4bfbfcf14d7",
+  "active": "d3f8a5fc5d83acdf",
   "lastOpenFiles": [
-    "blog/Fascinated by Japan.md",
+    "drafts/Fascinated by Japan.md",
+    "drafts/Fire in Karlshamn.md",
+    "Untitled.canvas",
+    "drafts",
     "blog/Netherlands Lights and Miniatyres.md",
     "_index.md",
     "projects/cool_project.md",
