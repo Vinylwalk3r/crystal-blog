@@ -192,6 +192,8 @@
   "lastOpenFiles": [
     "_index.md",
     "about/about.md",
+    "about/_index.md",
+    "archive/_index.md",
     "img/profile.png.md",
     "img",
     "blog/Fire in Karlshamn.md",
@@ -199,8 +201,6 @@
     "blog/Netherlands Lights and Miniatyres.md",
     "projects/_index.md",
     "projects/cool_project.md",
-    "about/_index.md",
-    "archive/_index.md",
     "blog/netherlands",
     "blog/New folder",
     "blog/fire-in-karlshamn",

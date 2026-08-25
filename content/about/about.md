@@ -3,7 +3,7 @@ title = "About Me"
 path = "about"
 
 [extra]
-header = { title = "About Me", img = "img/profile.png"}
+header = { title = "About Me", img = "img/crystals.png"}
 +++
 
 Greetings!
