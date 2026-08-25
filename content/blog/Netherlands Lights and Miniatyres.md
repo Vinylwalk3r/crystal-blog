@@ -12,9 +12,7 @@ iine = true
 local_image = "img/amsterdam-light-festival/miniworld-3.JPG"
 +++
 
-### Table of Content
-
-<!-- toc -->
+{{toc()}}
 
 ## The Trip
 
