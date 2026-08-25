@@ -15,3 +15,4 @@ Enjoy your time in my little digital abode!
 
 PS. I recently found out about [Mabslands Censor Pandas](https://www.mabsland.com/Adoption.html) and immediately wanted to adopt one! Say *HI* to Gee, the unoffensive panda!
 ![image](img/censorship-pandas/Censor_Gb.gif)
+{{full_width_image(src="img/censorship-pandas/Censor_Gb.gif", inline=true)}}
