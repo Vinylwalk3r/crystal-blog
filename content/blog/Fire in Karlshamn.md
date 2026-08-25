@@ -8,8 +8,8 @@ tags = ["Karlshamn","Fire","Destruction","Police","Firefighters"]
 
 [extra]
 giscus = true
-  
 iine = true
+local_image: "/img/karlshamn-fire/ronnebygatan-3-fire-1.jpg"
 +++
 
 ![image](/img/karlshamn-fire/ronnebygatan-3-fire-1.jpg)
