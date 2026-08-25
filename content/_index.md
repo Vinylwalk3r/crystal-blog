@@ -9,9 +9,10 @@ max_posts = 5
 
 I see you've found my blog. Welcome!
 
-This blog here and my [digital garden](https://dg.puffes.xyz) are my little corners of the internet. DG gets the hard info stuff, the blog is where I speak more freely. You might see quite the wide share of things posted on this blog, since I dabble in many things.
+This blog is my more personal, life space. You might see quite the wide share of things posted on here, since I dabble in many things.
+Meanwhile, head over to my [knowledge library](https://dg.puffes.xyz) for a more informative read.
 
-Enjoy your time in my little digital abode!
+Enjoy your time in my little digital abodes!
 
 PS. I recently found out about [Mabslands Censor Pandas](https://www.mabsland.com/Adoption.html) and immediately wanted to adopt one! Say *HI* to Gee, the unoffensive panda!
 
