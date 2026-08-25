@@ -12,3 +12,6 @@ I see you've found my blog. Welcome!
 This blog here and my [digital garden](https://dg.puffes.xyz) are my little corners of the internet. Most information and documentation I write will be in my digital garden but the more casual stull about thoughts and life will be here. You might see quite the wide share of things posted on this blog, since I dabble in many things.
 
 Enjoy your time in my little digital abode!
+
+PS. I recently found out about [Mabslands Censor Pandas](https://www.mabsland.com/Adoption.html) and immediately wanted to adopt one! Say *HI* to Gee, the unoffensive panda!
+![image](img/censorship-pandas/Censor_Gb.gif)
