@@ -1,9 +1,9 @@
 +++
 title = "About Me"
+template = "info-page.html"
 path = "about"
 
 [extra]
-header = { title = "About Me", img = "img/crystals.png"}
 +++
 
 Greetings!
@@ -16,4 +16,4 @@ I also love seeing the world and all the amazing things hidden away just over th
 
 Fittingly enough, I also love photography and will share some of my photos on here. Though my full collection will be over on [Flickr](https://www.flickr.com/photos/kennywikstrom)!
 
-![](img/profile.png)
+![](img/profile.png | width=10)
