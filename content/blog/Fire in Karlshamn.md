@@ -16,8 +16,8 @@ local_image: "/img/karlshamn-fire/ronnebygatan-3-fire-1.jpg"
 
 Something tragic happened earlier today. There was (and still is, at the time of writing) a major fire at Ronnebygatan 3 in Karlshamn.
 
-![image](/img/karlshamn-fire/ronnebygatan-3-fire-2.jpg)
-![image](/img/karlshamn-fire/ronnebygatan-3-fire-3.jpg)
+![image](/img/karlshamn-fire/ronnebygatan-3-fire-2.jpg|200)
+![image](/img/karlshamn-fire/ronnebygatan-3-fire-3.jpg|200)
 
 A mixed use building, a few blocks from town square, are on fire. Luckily, as of writing, the fire hasn't claimed any lives and no people are said to have gotten hurt.
 
