@@ -12,21 +12,21 @@ giscus = true
 iine = true
 +++
 
-![image](/img/karlshamn-fire/ronnebygatan-3-fire (7).jpg)
+![image](/img/karlshamn-fire/ronnebygatan-3-fire-1.jpg)
 
 Something tragic happened earlier today. There was (and still is, at the time of writing) a major fire at Ronnebygatan 3 in Karlshamn.
 
-![image](/img/karlshamn-fire/ronnebygatan-3-fire (8).jpg)
-![image](/img/karlshamn-fire/ronnebygatan-3-fire (9).jpg)
+![image](/img/karlshamn-fire/ronnebygatan-3-fire-2.jpg)
+![image](/img/karlshamn-fire/ronnebygatan-3-fire-3.jpg)
 
 A mixed use building, a few blocks from town square, are on fire. Luckily, as of writing, the fire hasn't claimed any lives and no people are said to have gotten hurt.
 
 The roof and top floor of the building is largely destroyed, as can be seen in the photos below. Firefighters are still on scene to fight and contain the fire. I could not see any direct flames when I visited the scene but, judging by the amount of smoke that was pouring out of the building, there is a high likelihood that there's still open flames inside the building.
 
-![image](/img/karlshamn-fire/ronnebygatan-3-fire (2).jpg)
-![image](/img/karlshamn-fire/ronnebygatan-3-fire (3).jpg)
-![image](/img/karlshamn-fire/ronnebygatan-3-fire (4).jpg)
-![image](/img/karlshamn-fire/ronnebygatan-3-fire (5).jpg)
+![image](/img/karlshamn-fire/ronnebygatan-3-fire-4.jpg)
+![image](/img/karlshamn-fire/ronnebygatan-3-fire-5.jpg)
+![image](/img/karlshamn-fire/ronnebygatan-3-fire-6.jpg)
+![image](/img/karlshamn-fire/ronnebygatan-3-fire-7.jpg)
 *The smoke spread over most of the town.*
 
 The firefighters has said to [BLT.SE](https://www.blt.se/karlshamn/larm-om-brand-i-centrala-karlshamn-luktar-rok/) that the fire started in the building and quickly took hold. ^[I have heard rumors that the fire started in a neighboring building and then spread through the courtyard and then onto the affected building. This is unconfirmed as of writing though.]
