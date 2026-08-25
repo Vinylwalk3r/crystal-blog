@@ -2,7 +2,6 @@
 title = "Fascinated by Japan"
 date = "2026-08-25"
 description = "Exploring Tokyo, Osaka and Kyoto"
-draft = "true"
 
 [taxonomies]
 tags = ["travel","Japan","Tokyo","Kyoto","Osaka","Hiroshima","Akihabara"]
