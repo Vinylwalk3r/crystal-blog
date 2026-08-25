@@ -280,9 +280,9 @@ encode_plaintext_email = true  # Setting is ignored if email is already encoded.
 # To use a custom icon, add it to your site's `static/social_icons` directory.
 socials = [
      { name = "github", url = "https://github.com/Vinylwalk3r/", icon = "github" },
-#     { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
-#     { name = "instagram", url = "https://instagram.com/oskerwyld", icon = "instagram" },
      { name = "youtube", url = "https://www.youtube.com/@vinylwalk3r", icon = "youtube" },
+     { name = "flickr", url = "https://www.flickr.com/photos/kennywikstrom", icon = "flickr" },
+#     { name = "soundcloud", url = "https://soundcloud.com/oskerwyld", icon = "soundcloud" },
 #     { name = "spotify", url = "https://open.spotify.com/artist/5Hv2bYBhMp1lUHFri06xkE", icon = "spotify" },
 ]
 
