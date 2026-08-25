@@ -4,9 +4,14 @@ date = "2026-02-03"
 description = "A look at Amsterdams Lights and Miniworld"
 
 [taxonomies]
-tags = ["travel","Netherlands","lights"]
+tags = ["travel","Netherlands","lights","Amsterdam","Rotterdam"]
+
+[extras]
+giscus = true
 +++
 
+### Table of Content
+{{ toc() }}
 ## The Trip
 
 In January this year, I went to the Netherlands over a weekend to see the [Light Festival](https://amsterdamlightfestival.com/en) and visit Rotterdams [MiniWorld](https://www.miniworldrotterdam.com/EN_index.html).
