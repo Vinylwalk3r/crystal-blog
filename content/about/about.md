@@ -8,8 +8,7 @@ Greetings!
 So pleased to meet you. Names Kenny. 
 I come from, and live in, the south of Sweden. 
 
-![image](img/profile.png)
-{{image(src="/img/profile.png", alt="hi", inline="true")}}
+![image](img/profile.png|inline=true)
 
 Loving to do many things, I like to try my hand at everything from tinkering with bikes to video editing and software deployment. Therefore I can post about a wide variety of subjects.
 

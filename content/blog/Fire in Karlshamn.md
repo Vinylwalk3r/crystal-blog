@@ -16,7 +16,7 @@ local_image = "img/karlshamn-fire/ronnebygatan-3-fire-1.jpg"
 
 Something tragic happened earlier today. There was (and still is, at the time of writing) a major fire at Ronnebygatan 3 in Karlshamn.
 
-image_hover(default_src="/img/karlshamn-fire/ronnebygatan-3-fire-2.jpg", hovered_src="/img/karlshamn-fire/ronnebygatan-3-fire-3.jpg", default_alt="Zoomed Out", hovered_alt="Zoomed In")
+{{image_hover(default_src="/img/karlshamn-fire/ronnebygatan-3-fire-2.jpg", hovered_src="/img/karlshamn-fire/ronnebygatan-3-fire-3.jpg", default_alt="Zoomed Out", hovered_alt="Zoomed In")}}
 
 ![full_width_image](/img/karlshamn-fire/ronnebygatan-3-fire-2.jpg)
 ![image](/img/karlshamn-fire/ronnebygatan-3-fire-3.jpg)
