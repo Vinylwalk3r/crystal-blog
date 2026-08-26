@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "059532e409de01e0",
+        "id": "341cf880cb636bd7",
         "type": "tabs",
         "children": [
           {
-            "id": "d3f8a5fc5d83acdf",
+            "id": "514dc4bfbfcf14d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,17 +188,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3f8a5fc5d83acdf",
+  "active": "514dc4bfbfcf14d7",
   "lastOpenFiles": [
     "blog/_index.md",
     "_index.md",
     "about/about.md",
     "blog/Fire in Karlshamn.md",
-    "blog/Netherlands Lights and Miniatyres.md",
     "about/_index.md",
+    "archive/_index.md",
+    "img/profile.png.md",
+    "img",
+    "blog/_index.md",
+    "blog/Netherlands Lights and Miniatyres.md",
+    "projects/_index.md",
+    "projects/cool_project.md",
+    "blog/netherlands",
+    "blog/New folder",
+    "blog/fire-in-karlshamn",
+    "blog/Fire in Karlshamn",
     "drafts/Fascinated by Japan.md",
-    "Untitled.canvas",
     "drafts",
-    "projects/cool_project.md"
+    "blog/Fascinated by Japan.md"
   ]
 }

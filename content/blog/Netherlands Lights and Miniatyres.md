@@ -12,8 +12,8 @@ iine = true
 local_image = "img/amsterdam-light-festival/miniworld-3.JPG"
 +++
 
-### Table of Content
-{{ toc() }}
+{{toc()}}
+
 ## The Trip
 
 In January this year, I went to the Netherlands over a weekend to see the [Light Festival](https://amsterdamlightfestival.com/en) and visit Rotterdams [MiniWorld](https://www.miniworldrotterdam.com/EN_index.html).
