@@ -24,25 +24,8 @@ It was super eerie to walk through Shanghai's Pudong International Airports (PVG
 ## Seeing Tokyo
 The first night in Tokyo didn't prove to be very restful for me, so I went out for a walk. We lived in the neighborhood called "Nihonbashi Hamacho" and it was, for Tokyo, a very peaceful neighborhood.
 ![image](/img/japan:2026/tokyo-1.jpg)
-
-You can probably already feel the cold chills blowing from the images.
-![image](/img/japan:2026/-bw-2.jpg)
-![image](/img/japan:2026/-bw-3.jpg)
-
-If you haven't figured it out already, I love photographing in Black and White. It give a timeless feel to the photos.
-![image](/img/japan:2026/-bw-4.jpg)
-![image](/img/japan:2026/-bw-5.jpg)
-![image](/img/japan:2026/-bw-7.jpg)
-![image](/img/japan:2026/-bw-8.jpg)
-
-They have some really cool wall artists around these parts. We saw several impressive pieces of wall art when we walked around the city.
-![image](/img/japan:2026/-bw-6.jpg)
-
-Okay, so this one aint at night but come on, if this aint Amsterdam, I don't know what is!
-![image](/img/japan:2026/-canals.jpg)
-
-
-Lets move on to the Light Festival!
+https://immich.puffes.xyz/albums/cc1daf3a-2b39-415c-a176-587f897ce8c5/photos/b656fc46-d83b-4a60-8129-6a14eeb02027
+![image](https://immich.puffes.xyz/albums/cc1daf3a-2b39-415c-a176-587f897ce8c5/photos/b656fc46-d83b-4a60-8129-6a14eeb02027)
 
 ### Light Festival
 
