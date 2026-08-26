@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/Fascinated by Japan.md",
+                "file": "drafts/Fascinated by Japan.md",
                 "mode": "source",
                 "source": true
               },
@@ -188,10 +188,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "514dc4bfbfcf14d7",
+  "active": "4fec9c18b8b2f8fe",
   "lastOpenFiles": [
     "blog/Fire in Karlshamn.md",
-    "blog/Fascinated by Japan.md",
+    "drafts/Fascinated by Japan.md",
     "projects/cool_project.md",
     "_index.md",
     "about/about.md",
