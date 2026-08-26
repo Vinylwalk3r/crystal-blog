@@ -19,37 +19,37 @@ The month was April and the flight was *LOOONG*. But man was I glad when we touc
 
 ## Shanghais Ghost Airport
 It was super eerie to walk through Shanghai's Pudong International Airports (PVG) terminals. It was so empty! We hardly encountered any passengers there at all! And the staff was visibly bored out of their minds. 
-![image](/img/japan:2026/shanhai_airport.jpg)
+![image](/img/japan/shanhai_airport.jpg)
 
 ## Seeing Tokyo
 The first night in Tokyo didn't prove to be very restful for me, so I went out for a walk. We lived in the neighborhood called "Nihonbashi Hamacho" and it was, for Tokyo, a very peaceful neighborhood.
-![image](/img/japan:2026/tokyo-1.jpg)
+![image](/img/japan/tokyo-1.jpg)
 https://immich.puffes.xyz/albums/cc1daf3a-2b39-415c-a176-587f897ce8c5/photos/b656fc46-d83b-4a60-8129-6a14eeb02027
 ![image](https://immich.puffes.xyz/albums/cc1daf3a-2b39-415c-a176-587f897ce8c5/photos/b656fc46-d83b-4a60-8129-6a14eeb02027)
 
 ### Light Festival
 
 This one is a interesting one. It's made up of several screens that show a shot of lights flickering in the water.
-![image](/img/japan:2026/-lights-1.jpg)
+![image](/img/japan/-lights-1.jpg)
 
 Im *NOT* the one to untangle **THAT** mess!
-![image](/img/japan:2026/-lights-2.jpg)
+![image](/img/japan/-lights-2.jpg)
 
 Doesn't this remind you of a CD stad? But this one is probably taller than you!
-![image](/img/japan:2026/-lights-3.jpg)
+![image](/img/japan/-lights-3.jpg)
 
 There windows we're a funky little thing. We saw these during the day and wondered what they were. During the river cruise, we found out that they were a part of the Lights Festival.
-![image](/img/japan:2026/-lights-4.jpg)
+![image](/img/japan/-lights-4.jpg)
 
 Ah, the swans, my moms favourite. You really get a feel for their scale, with help from the car in the back
-![image](/img/japan:2026/-lights-5.jpg)
+![image](/img/japan/-lights-5.jpg)
 
 These lines were really funky! They  constantly collided and intertwinded themselves in a mesmorizing dance.
-![image](/img/japan:2026/-lights-6.jpg)
+![image](/img/japan/-lights-6.jpg)
 
 *MUSHROOM!,MUSHROOM!,MUSHROOM!*
-![image](/img/japan:2026/-lights-7.jpg)
-![image](/img/japan:2026/-lights-8.jpg)
+![image](/img/japan/-lights-7.jpg)
+![image](/img/japan/-lights-8.jpg)
 
 ## Rotterdam
 

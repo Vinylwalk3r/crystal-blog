@@ -188,11 +188,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "4fec9c18b8b2f8fe",
+  "active": "514dc4bfbfcf14d7",
   "lastOpenFiles": [
     "blog/Fire in Karlshamn.md",
-    "projects/cool_project.md",
     "blog/Fascinated by Japan.md",
+    "projects/cool_project.md",
     "_index.md",
     "about/about.md",
     "about/_index.md",
@@ -206,7 +206,6 @@
     "blog/New folder",
     "blog/fire-in-karlshamn",
     "blog/Fire in Karlshamn",
-    "drafts",
-    "blog/Fascinated by Japan.md"
+    "drafts"
   ]
 }
