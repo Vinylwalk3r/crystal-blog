@@ -15,6 +15,6 @@ Enjoy your time in my little digital abode!
 
 
 {%admonition(type="tip", icon="tip", title="Adopt-A-Panda!")%}
-{{dimmable_image(src="img/censorship-pandas/Censor_Gb.gif", inline=true)}}
 I recently found out about [Mabslands Censor Pandas](https://www.mabsland.com/Adoption.html) and immediately wanted to adopt one! So say *HI* to Gee, the unoffensive panda!
+{{dimmable_image(src="img/censorship-pandas/Censor_Gb.gif", inline=false)}}
 {% end %}
