@@ -24,8 +24,7 @@ It was super eerie to walk through Shanghai's Pudong International Airports (PVG
 ## Seeing Tokyo
 The first night in Tokyo didn't prove to be very restful for me, so I went out for a walk. We lived in the neighborhood called "Nihonbashi Hamacho" and it was, for Tokyo, a very peaceful neighborhood. I thoroughly enjoyed it!
 ![image](/img/japan/tokyo-1.jpg)
-https://immich.puffes.xyz/albums/cc1daf3a-2b39-415c-a176-587f897ce8c5/photos/b656fc46-d83b-4a60-8129-6a14eeb02027
-![image](https://immich.puffes.xyz/albums/cc1daf3a-2b39-415c-a176-587f897ce8c5/photos/b656fc46-d83b-4a60-8129-6a14eeb02027)
+
 
 ### Light Festival
 
