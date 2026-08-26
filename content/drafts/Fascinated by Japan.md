@@ -1,6 +1,6 @@
 +++
 title = "Fascinated by Japan"
-date = "2026-08-25"
+date = "2026-08-27"
 description = "Exploring Tokyo, Osaka and Kyoto"
 
 [taxonomies]
