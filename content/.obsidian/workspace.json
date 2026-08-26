@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_index.md",
+                "file": "about/about.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "about"
             }
           }
         ]
@@ -190,6 +190,16 @@
   },
   "active": "d3f8a5fc5d83acdf",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "_index.md",
+    "about/about.md",
+    "blog/Fire in Karlshamn.md",
+    "about/_index.md",
+    "archive/_index.md",
+    "img/profile.png.md",
+    "img",
+>>>>>>> parent of 8b80e97 (updated index.md)
     "blog/_index.md",
     "_index.md",
     "drafts/Fascinated by Japan.md",
